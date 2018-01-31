@@ -84,7 +84,12 @@ Komendy dla użytkowników:
 !game - losowanie gry
     
 !elo - połączenie z Riot Api w celu pobrania informacji na temat dywizji streamera
-    np. !elo
     
     Lee_Sek: !elo
     April_1_: Current elo: CHALLENGER I 690 LP
+    
+    lub
+    
+    Lee_Sek: !elo
+    April_1_: Current elo: None  #Wyświetli się w przypadku braku dywizji
+    
