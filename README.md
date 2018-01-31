@@ -15,7 +15,6 @@ Ban nr.1 - 3600 sec
 Oprócz tego funkcjonuje system słów zakazanych. Po użyciu takiego słowa użytkownik dostanie timeout na 20 minut
 
     Do zrobienia:
-    -Połączenie z API Riot w celu pobierania aktualnych danych o swoim koncie w grze league of legends
     -Pobieranie i wczytywanie danych z pliku json
     -Dokończenie systemu punktów (Aktualnie są funkcje sprawdzające ilość punktów oraz wysyłające kod gry jako prywatną wiadomość do użytkownika. Do zrobienia dodawanie punktów w zależności od tego czy użytkownik jest subksrybentem kanału czy nie. Okreslona ilość punktów pozwoli na wylosowanie kodu na gre w platformie Steam)
     -Nauczyć bota prowadzić luźne rozmowy z użytkownikami (Sieć neuronowa)
