@@ -18,7 +18,7 @@ Do zrobienia:
 
     -giveaway na słowo ustalone przez streamera
     
-    -system wykrywania spamu i różnych kombinacji zakaanych słów
+    -system wykrywania spamu i różnych kombinacji zakazanych słów
 
 Komendy dla właściciela kanału:
 !addcommand - dodawanie własnej komendy:
@@ -77,8 +77,6 @@ Komendy dla użytkowników:
 !points - ilość punktów posiadanych przez użytkownika 
  
 !warrnings - ilość upomnień posiadanych przez użytkownika 
- 
-!game - losowanie gry
     
 !elo - połączenie z Riot Api w celu pobrania informacji na temat dywizji streamera
     
