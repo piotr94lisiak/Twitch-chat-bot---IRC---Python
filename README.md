@@ -16,9 +16,9 @@ Oprócz tego funkcjonuje system słów zakazanych. Po użyciu takiego słowa uż
 
 Do zrobienia:
 
-    -Pobieranie i wczytywanie danych z pliku json
+    -giveaway na słowo ustalone przez streamera
     
-    -Dokończenie systemu punktów (Aktualnie są funkcje sprawdzające ilość punktów oraz wysyłające kod gry jako prywatną wiadomość do użytkownika. Do zrobienia dodawanie punktów w zależności od tego czy użytkownik jest subksrybentem kanału czy nie. Okreslona ilość punktów pozwoli na wylosowanie kodu na gre w platformie Steam)
+    -system wykrywania spamu i różnych kombinacji zakaanych słów
 
 Komendy dla właściciela kanału:
 !addcommand - dodawanie własnej komendy:
